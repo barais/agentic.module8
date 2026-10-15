@@ -1,0 +1,5 @@
+/* Format portrait / PDF : un peu plus grand */
+@media print {
+  .global-bottom img { height: 24px !important; }
+}
+
