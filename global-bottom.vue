@@ -1,5 +1,5 @@
 <template>
-  <footer class="absolute bottom-0 right-0 z-20 flex items-center gap-3 px-4 py-2">
+  <footer class="absolute bottom-0 right-0 z-20 flex items-center gap-1 px-1 py-1">
     <span class="text-xs font-mono text-gray-400">
       <SlideCurrentNo /> / <SlidesTotal />
     </span>
